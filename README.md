@@ -7,12 +7,11 @@
 
 ## Project Overview
 
-**Domain Problem:** Who will take Top 3 for the Supercross 450 class event in Seattle?
-
-**Objective:** The objective of this project is to predict the Top 3 podium finishers for the 450 Supercross class at the Seattle round taking place at Lumen Field on February 14th.
-
 Supercross racing is highly stochastic due to factors such as rider crashes, start position variability, and rapidly changing track conditions, making exact predictions unreliable. As a result, this project approaches the problem mathematically by simulating race outcomes multiple times and evaluating the frequency with which riders finish on the podium.
 
+- **Objective:** The objective of this project is to predict the Top 3 podium finishers for the 450 Supercross class at the Seattle round taking place at Lumen Field on February 14th.
+
+- **Domain Problem:** Who will take Top 3 for the Supercross 450 class event in Seattle?
 
 ---
 
