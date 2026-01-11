@@ -2,6 +2,7 @@
 
 **Author:** Alyssa Zukas
 **Date Started**: 2026-01-10
+
 ---
 
 ## Project Overview
